@@ -1,0 +1,10 @@
+Palette File pallettitle.bin
+Mapping File mapenititlescr.bin
+Art File artnemtitlefor.bin
+Mapping Compression Enigma
+Art Compression Nemesis
+Palette Length 0x80
+Palette Offset 0x00
+x-Size 34
+y-Size 28
+Tile Offset 0x200
