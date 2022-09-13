@@ -2,6 +2,9 @@ Sonic Delirium Director's Cut (2022) source code
 
 
 Credits:
+    SEGA (Original game)
+    Yuji Naka (Original coding)
+    Hivebrain (Disassembly used)
     Pila Ciu (Coding and implementation)
     Vladikomper (Tools used and some code)
     EsraelNeto (Tools used)
