@@ -1,4 +1,4 @@
-Sonic Delirium Director's Cut (2022) source code
+Sonic Delirium public source code release
 
 
 Credits:
