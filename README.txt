@@ -1,5 +1,5 @@
 Sonic Delirium public source code release
-
+This repository contains questionable coding and pure spaghetti
 
 Credits:
     SEGA (Original game)
