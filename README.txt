@@ -19,3 +19,4 @@ Credits:
     Lucaio Super (Early ideas)
     DJError (Club scene SMPS track)
     GigglyMan (Minor ideas)
+    Kizz (Beta testing)
