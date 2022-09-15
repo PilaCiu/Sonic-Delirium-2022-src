@@ -1,4 +1,5 @@
-Sonic Delirium public source code release
+Sonic Delirium (Legacy version) public source code release
+Fully working on real hardware
 This repository contains questionable coding and pure spaghetti
 
 Credits:
